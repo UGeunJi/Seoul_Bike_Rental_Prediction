@@ -4,7 +4,7 @@
 
 > :family: Study1
 - [안은선](https://github.com/eunsunahn)
-- [양효준](https://github.com/ 아이디 올려주세요!)
+- [양효준](https://github.com/HyoJoon-Yang)
 - [이상훈](https://github.com/Dawnnote)
 - [전한성](https://github.com/hansung-jeon)
 - [전현준](https://github.com/Hjun96)
