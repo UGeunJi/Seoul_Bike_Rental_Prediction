@@ -1,5 +1,5 @@
 # :chart_with_upwards_trend: Seoul Bike Rental Prediction :bike:
-## :mag: [서울시 자전거 대여량 예측 경진대회](https://dacon.io/competitions/open/235576/overview/description) (2022/11/22 ~ 2022/?/?)
+## :mag: [서울시 자전거 대여량 예측 경진대회](https://dacon.io/competitions/open/235576/overview/description) (2022/11/22 ~ 2022/11/30)
 
 
 > :family: Study1
@@ -20,7 +20,3 @@
 | 11/28 | 데이터 전처리 결과 공유 | 전처리 결과를 통한 고찰, 전처리 방법 공유 |
 | 11/29 | 데이터 전처리, 예측 결과 공유 | 전처리 결과 브리핑, 예측 결과를 통한 방향성 제시 |
 | 12/02 | EDA | 데이터에 대한 고찰, EDA 결과 공유를 통한 토론 | 
-||||
-||||
-||||
-||||
